@@ -1,2 +1,4 @@
 
-pureMVC_demo/Library/ScriptMapper
+pureMVC_demo/Library/*
+
+pureMVC_demo/Temp/*
